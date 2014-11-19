@@ -1,0 +1,8 @@
+{
+    "id": "nodebb-theme-ironbane",
+    "name": "Ironbane Theme for NodeBB",
+    "description": "Ironbane Theme for NodeBB",
+    "url": "https://github.com/ironbane/nodebb-theme-ironbane",
+    "screenshot": "screenshot.png",
+    "templates": "templates"
+}
